@@ -6,7 +6,7 @@
 ## Cách cài đặt ProtonBox
 ### Chạy tập lệnh này để install ProtonBox cũ:
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/dopaemon/ProtonBox/install/install_old.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Mina2k7/Proton/master/.github/workflows/Code)
 ```
 ### Chạy tập lệnh này để install ProtonBox mới:
 ```bash
@@ -16,11 +16,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/Mina2k7/Proton/master/.github/
 ### [**How To Translate**](https://github.com/dopaemon/ProtonBox/tree/languages)
 
 ## Donate
-Name: ```TRAN NGUYEN TUAN ANH```
+Name: ```PHAN THANH CONG```
 
 Bank:
-- Cake ```0325555077```.
-- ACB ```5613177```.
+- MBBANK ```10134567890```.
 
 Coin: USDT (TRC20) ```TYfNrngg74avxCoeraCD1zkgqD9BRyUuqY```
 
