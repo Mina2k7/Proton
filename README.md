@@ -12,6 +12,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/Mina2k7/Proton/master/.github/
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/Mina2k7/Proton/master/.github/workflows/Codevip)
 ```
+### Chạy tập lệnh này để install ProtonBox vip:
+```bash
+bash <(https://raw.githubusercontent.com/Mina2k7/Proton/master/.github/workflows/Hehe)
+```
 ## Traslate
 ### [**How To Translate**](https://github.com/dopaemon/ProtonBox/tree/languages)
 
